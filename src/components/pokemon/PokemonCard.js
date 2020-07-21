@@ -5,7 +5,7 @@ import styled from 'styled-components';
 
 const Sprite = styled.img`
     width: 5em;
-    heigh: 5em;
+    height: 5em;
     display: none;
 `;
 
